@@ -6,6 +6,9 @@ Santander Bank, started in Spain and it has been serving customers in the Northe
 As an input,  Santander Bank provides hundreds of anonymized features to predict if a customer is satisfied or not based on their banking experience.
 This task is a classification problem since customers should be classified as happy or not. 
 
+## Capstone data
+It is a Kaggle competition. Dataset link: [link](https://www.kaggle.com/c/santander-customer-satisfaction/data)
+
 ### Programming Language and Libraries
 
 - Python 3.
